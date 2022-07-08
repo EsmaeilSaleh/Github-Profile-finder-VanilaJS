@@ -1,3 +1,3 @@
-# Github-Profile-finder-VanilaJS
+# Github-Profile-finder-VanillaJS
 
-I've created this Github profile finder with VanilaJS. Because I love JS. 
+I've created this Github profile finder with VanillaJS. Because I love JS.
